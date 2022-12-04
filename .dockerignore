@@ -1,0 +1,15 @@
+# Git
+.git
+.gitignore
+
+#Docker
+.docker
+
+# Python
+phone_book_api/__pycache__/
+phone_book_api/*/__pycache__/
+phone_book_api/*/*/__pycache__/
+phone_book_api/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
